@@ -1,7 +1,10 @@
 # ZHView
 
 ![WechatIMG116](https://user-images.githubusercontent.com/19387301/155274182-08d58e28-961d-4267-a5ef-64f823dc891c.jpeg)
-1.代理
+
+
+
+ 1.代理
  2.block
  3.xib
  以上三种都是创建view来制作弹窗
